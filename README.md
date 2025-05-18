@@ -1,20 +1,20 @@
-#Python Learning
+# Python Learning
 
-##Package and module
+## Package and module
 
-###Module
+### Module
 A single module is equevalant to a single .py file for Python
 
-###Package
+### Package
 A package is comprised of one or mutiple .py file(s)
 Users have to manully define the package within .py files
 
-###import
+### import
 Normally there are 2 ways to use `import`
--`import <packageName>.<componentName>`
-    -We can use the component directly without specifying the package name.
--`import `<packageName>`
-    -The package name is required to be specified when using the components.
+- `import <packageName>.<componentName>`
+    - We can use the component directly without specifying the package name.
+- `import `<packageName>`
+    - The package name is required to be specified when using the components.
 
 
 **Note**
