@@ -1,6 +1,6 @@
 # Taking Notes with Github
 
-## Reasons why I chose Github
+## The reason why I chose Github
 This is my first time trying taking notes with Github.
 I used to take notes with Notion, Confluence or some other Notes apps. 
 But I found that it was quite hard for me to track back a particular line.
