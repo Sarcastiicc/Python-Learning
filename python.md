@@ -10,11 +10,12 @@ A package is comprised of one or mutiple .py file(s)
 Users have to manully define the package within .py files
 
 ### import
-Normally there are 2 ways to use `import`
-- `import <packageName>.<componentName>`
-    - We can use the component directly without specifying the package name.
-- `import <packageName>`
+Normally there are several ways to use `import`
+- `import <packageName>` (fully import)
     - The package name is required to be specified when using the components.
+- `from <packageName> import <componentName>` (partially import)
+    - We can use the component directly without specifying the package name. 
+	- The <packageName> is unrecogonizable in the code.
 
 
 **Note**
